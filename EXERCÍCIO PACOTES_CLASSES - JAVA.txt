@@ -1,0 +1,17 @@
+package exemplo1;
+
+public class Empresa1 {
+    private String CNPJ;
+    private Funcionario lista_funcionario[];
+
+}
+
+
+package exemplo2;
+
+public class Empresa2 {
+    private String nome;
+    private String endereco;
+
+    private Transacao[] lista_transacao;
+}
